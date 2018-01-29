@@ -16,7 +16,8 @@ public class AmitTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("my test app");
+        System.out.println("my test app, updated");
+        
     }
     
 }
